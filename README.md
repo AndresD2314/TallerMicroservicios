@@ -37,21 +37,21 @@ Por ultimo instanciamos la CALCULADORA en el puerto 8888
 
 Estas son las operaciones a realizar en el navegador:
 
--localhost:9091/suma?a=10&b=23&nombre=Andres
+- localhost:9091/suma?a=10&b=23&nombre=Andres
 
--Localhost:2020/resta?a=10&b=5&nombre=Juan
+- Localhost:2020/resta?a=10&b=5&nombre=Juan
 
--Localhost:3030/multiplicar?a=10&b=20&nombre=Ana
+- Localhost:3030/multiplicar?a=10&b=20&nombre=Ana
 
--Localhost:2020/dividir?a=20&b=2&nombre=Humberto
+- Localhost:2020/dividir?a=20&b=2&nombre=Humberto
 
--Localhost:8888/calculadora/suma?a=10&b=23&nombre=Andres
+- Localhost:8888/calculadora/suma?a=10&b=23&nombre=Andres
 
--Localhost:8888/calculadora/resta?a=10&b=5&nombre=Andres
+- Localhost:8888/calculadora/resta?a=10&b=5&nombre=Andres
 
--Localhost:8888/calculadora/multiplicar?a=10&b=23&nombre=Andres
+- Localhost:8888/calculadora/multiplicar?a=10&b=23&nombre=Andres
 
--Localhost:8888/calculadora/dividir?a=10&b=2&nombre=Andres
+- Localhost:8888/calculadora/dividir?a=10&b=2&nombre=Andres
 
 
 
